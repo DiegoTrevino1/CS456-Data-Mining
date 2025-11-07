@@ -1,0 +1,11 @@
+K-Nearest Neighbors (KNN) Results
+========================================
+
+K=1 -> Prediction for Study=5, Sleep=6: Yes
+Graph saved as: KNN_Result_K1.png
+K=3 -> Prediction for Study=5, Sleep=6: Yes
+Graph saved as: KNN_Result_K3.png
+K=5 -> Prediction for Study=5, Sleep=6: Yes
+Graph saved as: KNN_Result_K5.png
+
+All results and graphs saved successfully.
